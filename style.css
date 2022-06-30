@@ -92,7 +92,7 @@ header ul li a:active {
 .about {
     height: 513px;
     width: auto;
-    background-image: url(background.JPG) ;
+    background-image: url(bg.jpg);
     background-size: cover;
     background-position: center;
     padding: 10%;
