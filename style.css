@@ -64,17 +64,6 @@ header ul li a:active {
 }
 
 
-.checkbtn {
-    float: right;
-    color: black;
-    font-size: 30px;
-    line-height: 80px;
-    margin-right: 40px;
-    cursor: pointer;
-    display: n;
-}
-
-
 .logo {
     color: white;
     font-size: 35px;
@@ -103,7 +92,7 @@ header ul li a:active {
 .about {
     height: 400px;
     width: auto;
-    background-image: url(background.JPG) ;
+    background-image: url(background.jpg) ;
     background-size: cover;
     background-position: center;
     padding: 10%;
